@@ -1,0 +1,182 @@
+{
+    "searchType": "Movie",
+    "expression": "avengers",
+    "results": [
+        {
+            "id": "tt4154796",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: Endgame",
+            "description": "2019 Robert Downey Jr., Chris Evans"
+        },
+        {
+            "id": "tt0848228",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The Avengers",
+            "description": "2012 Robert Downey Jr., Chris Evans"
+        },
+        {
+            "id": "tt4154756",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: Infinity War",
+            "description": "2018 Robert Downey Jr., Chris Hemsworth"
+        },
+        {
+            "id": "tt2395427",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: Age of Ultron",
+            "description": "2015 Robert Downey Jr., Chris Evans"
+        },
+        {
+            "id": "tt21357150",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMyMTMwYTctMjExYi00NTc3LWEwYjAtZWJmODVkZDU1NTZiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: The Kang Dynasty",
+            "description": "2025 Jeremy Renner, Jonathan Majors"
+        },
+        {
+            "id": "tt21361444",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWE0MjkyNGQtMjgwMS00NGIwLTg5YmEtYThlOTQ1NTZmNWFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: Secret Wars",
+            "description": "2026 Jonathan Majors, Iman Vellani"
+        },
+        {
+            "id": "tt0054518",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7297_AL_.jpg",
+            "title": "The Avengers",
+            "description": "1961–1969 TV Series Patrick Macnee, Diana Rigg"
+        },
+        {
+            "id": "tt21192014",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTRlM2QwYjAtMjg1Yy00MmYwLTk3OTItMjBmMTM4YzI4M2VmXkEyXkFqcGdeQXVyMTA4Mzg1NzM5._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: Quantum Encounter",
+            "description": "2022 Short Paul Rudd, Evangeline Lilly"
+        },
+        {
+            "id": "tt0118661",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The Avengers",
+            "description": "1998 Ralph Fiennes, Uma Thurman"
+        },
+        {
+            "id": "tt2455546",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_Ratio0.7568_AL_.jpg",
+            "title": "Avengers Assemble",
+            "description": "2012–2019 TV Series Roger Craig Smith, Troy Baker"
+        },
+        {
+            "id": "tt0203247",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGUzMzU0NDktZjJkNi00YWQ3LTllZjItOTAyMzljMDQ0NTA2XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Avengers: United They Stand",
+            "description": "1999–2000 TV Series Linda Ballantyne, Tony Daniels"
+        },
+        {
+            "id": "tt4296026",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg5NDEzNDIyOV5BMl5BanBnXkFtZTgwODY3ODA5MzE@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Avengers Grimm",
+            "description": "2015 Video Casper Van Dien, Lauren Parkinson"
+        },
+        {
+            "id": "tt0074031",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIwNDg4NzE1N15BMl5BanBnXkFtZTcwNTIwMDYyMQ@@._V1_Ratio0.7027_AL_.jpg",
+            "title": "The New Avengers",
+            "description": "1976–1977 TV Series Patrick Macnee, Gareth Hunt"
+        },
+        {
+            "id": "tt1626038",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The Avengers: Earth's Mightiest Heroes",
+            "description": "2010–2012 TV Series Eric Loomis, Colleen O'Shaughnessey"
+        },
+        {
+            "id": "tt6172666",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWRkNTE4NjYtN2RhYi00ZjFhLTk5ZTgtYjk3ODZmZWM1NDMwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio0.7568_AL_.jpg",
+            "title": "Avengers of Justice: Farce Wars",
+            "description": "2018 Amy Smart, Shawn Michaels"
+        },
+        {
+            "id": "tt0491703",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_Ratio0.7568_AL_.jpg",
+            "title": "Ultimate Avengers: The Movie",
+            "description": "2006 Video Justin Gross, Grey Griffin"
+        },
+        {
+            "id": "tt4180582",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BODg1YmE2NTQtMGJjMy00N2MxLTgxZGEtN2FmYjk4OWNjODVkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Bikini Avengers",
+            "description": "2015 Video Erika Jordan, Jacqui Holland"
+        },
+        {
+            "id": "tt3482378",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0Njk4MF5BMl5BanBnXkFtZTgwMTY0OTIyMTE@._V1_Ratio0.8378_AL_.jpg",
+            "title": "Avengers Confidential: Black Widow & Punisher",
+            "description": "2014 Video Jennifer Carpenter, Brian Bloom"
+        },
+        {
+            "id": "tt0077292",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTgzMjMxOTYtYzQzZi00NWM1LTljZDMtN2UwZWE3MjlhZDdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Crippled Avengers",
+            "description": "1978 Kuan Tai Chen, Feng Lu"
+        },
+        {
+            "id": "tt6591446",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2NiMTI4NzYtNmRlOS00MDI4LThiODQtMzU2NzEzOGE0OWQ5XkEyXkFqcGdeQXVyMzE3NDUwODA@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Marvel Future Avengers",
+            "description": "2017–2018 TV Series Max Mittelman, Dina Sherman"
+        },
+        {
+            "id": "tt7375028",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTBmNjAxZTgtNmE3NS00ZmE4LWEzZTktNmFiZjQ0YWEzOWJmXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Avengers Social Club",
+            "description": "2017 TV Series Ra Mi-ran, Yo-won Lee"
+        },
+        {
+            "id": "tt8159584",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDQwYTMwODItNWQ5Zi00ZTkyLWEzMDctOGM0NGVlOTg3MGRlXkEyXkFqcGdeQXVyMjM0ODM1NTE@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Avengers Grimm: Time Wars",
+            "description": "2018 Video Lauren Parkinson, Elizabeth Eileen"
+        },
+        {
+            "id": "tt0803093",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Ultimate Avengers II",
+            "description": "2006 Video Justin Gross, Grey Griffin"
+        },
+        {
+            "id": "tt0115503",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTYyMTgzOV5BMl5BanBnXkFtZTcwMTgxNTEzMQ@@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Alien Avengers",
+            "description": "1996 TV Movie George Wendt, Shanna Reed"
+        },
+        {
+            "id": "tt6468680",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2Q5MjY1ZGQtZjY2My00NTg5LWIzZGYtY2E4MzgxYzQ0MjYwXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Marvel's Avengers",
+            "description": "2020 Video Game Sandra Saad, Nolan North"
+        }
+    ],
+    "errorMessage": ""
+}
