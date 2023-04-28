@@ -1,0 +1,47 @@
+.page{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+
+.main{
+  width: 100%;
+}
+
+.movies{
+	padding: 0;
+  display: grid;
+  width: 100%;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.movies img{
+  border-radius: 8px;
+	padding: 0;
+	margin: 0;
+	aspect-ratio: 2/3;
+}
+
+/* .movies h2, .movie p{
+	display: inline-block;
+	font-size: 1.5rem;
+	margin: 0;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+} */
+
+h1, h2, p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-weight: bold;
+}
+
+.search__button{
+	border-radius: 0px 10px 10px 0px;
+}

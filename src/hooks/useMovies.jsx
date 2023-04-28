@@ -1,25 +1,34 @@
-import responseMovies from '../mocks/with-results.json'
+import { searchMovies } from '../services/movies.js'
+import { useRef, useState, useMemo, useCallback } from 'react'
 
-export function useMovies () {
-  const movies = responseMovies.results
+export function useMovies ({ search, sort }) {
+  const [movies, setMovies] = useState([])
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState(null)
+  const previousSearch = useRef(search)
 
-  const mappedMovies = movies.map(movie => ({
-    id: movie.id,
-    title: movie.title,
-    poster: movie.image,
-    description: movie.description
-  }))
+  const getMovies = useCallback(
+    async ({ search }) => {
+      if (search === previousSearch.current) return
 
-  return { movies: mappedMovies }
+      try {
+        setLoading(true)
+        setError(null)
+        previousSearch.current = search
+        const newMovies = await searchMovies({ search })
+        setMovies(newMovies)
+      } catch (e) {
+        setError(e.message)
+      } finally {
+        setLoading(false)
+      }
+    }, [])
+
+  const sortedMovies = useMemo(() => {
+    return sort
+      ? [...movies].sort((a, b) => a.title.localeCompare(b.title))
+      : movies
+  }, [sort, movies])
+
+  return { movies: sortedMovies, getMovies, loading }
 }
-
-/*
-  {movies.map(movies => (
-        <li key={movies.id}>
-          <h2>{movies.title}</h2>
-          <img className='max-w-xs w-70' src={movies.image} alt={movies.title} />
-          <p>{movies.description}</p>
-        </li>
-      ))}
-    </ul>
-  ) */

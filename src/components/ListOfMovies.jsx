@@ -3,9 +3,10 @@ export default function ListOfMovies ({ movies }) {
     <ul className='movies'>
       {movies.map(movies => (
         <li key={movies.id}>
-          <h2>{movies.title}</h2>
-          <img className='max-w-xs w-70' src={movies.poster} alt={movies.title} />
-          <p>{movies.description}</p>
+          <h2 className='text-2xl mb-2'>{movies.title}</h2>
+          <p className='text-md'>{movies.description.slice(0, 4)}</p>
+          <img className=' shadow-slate-700 shadow-lg' src={movies.poster ? movies.poster : null} alt={movies.title} />
+          <p className='text-md mt-4'>{movies.description.slice(4, -1)}</p>
         </li>
       ))}
     </ul>
