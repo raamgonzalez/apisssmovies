@@ -12,6 +12,7 @@ export function useMovies ({ search, sort }) {
       if (search === previousSearch.current) return
 
       try {
+        if (search === '') return setMovies('avengers')
         setLoading(true)
         setError(null)
         previousSearch.current = search

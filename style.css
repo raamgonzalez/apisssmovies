@@ -636,7 +636,7 @@ button,
 input[type=button],
 input[type=reset],
 input[type=submit] {
-  background-color: var(--primary);
+  background-color: var(--text);
   border: 1px solid transparent;
   border-radius: var(--br);
   color: var(--white);
@@ -670,7 +670,7 @@ input[type=reset]:hover,
 input[type=reset]:not(:disabled):active,
 input[type=submit]:hover,
 input[type=submit]:not(:disabled):active {
-  background-color: var(--primary-600);
+  background-color: #19184dab;
   border-color: var(--primary-600);
   color: var(--white)
 }
@@ -730,4 +730,5 @@ tfoot td {
   font-style: italic;
   padding: var(--md-pad) var(--xs-pad)
 }
+
 
