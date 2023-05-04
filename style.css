@@ -303,7 +303,7 @@ video {
 
 body {
   background-color: #87B1AC;
-  background-image: url('./public/ooorganize.svg');
+  background-image: url('./ooorganize.svg');
   background-repeat: repeat;
   color: var(--text);
   font-family: var(--font-family);
