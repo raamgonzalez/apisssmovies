@@ -1,15 +1,15 @@
+
 export default function ListOfMovies ({ movies }) {
   return (
     <ul className='movies'>
       {movies.map(movies => (
-        <li key={movies.id} className='px-5'>
+        <li key={movies.id} className='grid grid-rows-1'>
           <h2 className='text-2xl mb-2 inline-block w-50'>{movies.title}</h2>
-          <p className='text-md'>{movies.description.slice(0, 4)}</p>
+          <p className='text-md'>{movies.tagline}</p>
           <img className={movies.poster ? 'imgposter' : 'imgposter  object-cover'} src={movies.poster ? movies.poster : './notimage.webp'} alt={movies.title} />
-          <p className='text-md mt-4'>{movies.description.slice(4, -1)}</p>
+          <p className='text-md mt-4'>Estreno - {movies.release.slice(0, 4)}</p>
         </li>
       ))}
-      {/* shadow-slate-700 shadow-lg */}
     </ul>
   )
 }

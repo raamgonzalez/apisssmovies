@@ -15,7 +15,7 @@ export default function App () {
     getMovies({ search })
   }, 500), [])
 
-  useEffect(() => getMovies({ search: 'avengers' }), [])
+  useEffect(() => getMovies({ searchKey: 'avengers' }), [])
 
   const handleSubmit = (event) => {
     event.preventDefault()
